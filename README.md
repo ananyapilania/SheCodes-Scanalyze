@@ -35,7 +35,7 @@ Scanalyze is a Python-based terminal application designed to help users identify
 
 ---
 
-##🔐 Scalability and Extensibility:
+### 🔐 Scalability and Extensibility:
 Modular design makes it easy to plug in:
 
 Additional disease categories
